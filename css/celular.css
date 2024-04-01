@@ -21,3 +21,7 @@ html {
 }
 
 /* Inicio de todo esto de acá. */
+body {
+    background-color: black;
+    color:white;
+}
