@@ -1,0 +1,23 @@
+/* CONFIGURACIONES INICIALES */
+
+@import url('https://fonts.googleapis.com/css2?family=Kay+Pho+Du:wght@400;500;600;700&family=Montserrat:ital,wght@0,400;0,500;1,400;1,600&display=swap');
+
+html {
+    font-size: 62.5%;
+    font-family: 'Kay Pho Du', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --rojo:#c81224;
+    --gris_calido:#706e6e;
+    --gris_claro:#706e6e25;
+}
+
+/* Inicio de todo esto de acá. */
